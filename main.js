@@ -32,3 +32,8 @@ function SonicFrontiersSongs()
 {
     window.open("https://drive.google.com/file/d/1ur0REVuoalQ-ciBgiLD3nJOj2Ev9g7-j/view?usp=sharing");
 }
+
+function SonicHub()
+{
+	window.open("https://sonic998.github.io/sonichuh");
+}
