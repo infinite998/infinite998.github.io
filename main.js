@@ -35,5 +35,5 @@ function SonicFrontiersSongs()
 
 function SonicHub()
 {
-	window.open("https://sonic998.github.io/sonichuh");
+	window.open("https://sonic998.github.io/sonichub");
 }
